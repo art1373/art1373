@@ -1,1 +1,48 @@
- ## Tech Stack <br> <table> <thead> <td> 	<b>Backend skills</b> </td> <td> 	<b>Frontend Skills</b> </td> <td> 	<b>Database</b> </td> </thead> <tr> <td> 	<br>  <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjX5KbX9VBTfUyBj0io1gkXkBFXQe2fKKYXw&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxE-rx44c5yJNQmo7dGvSWcRxVmiRHTu7Y-w&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQS1jsAm8BRk5jZmU5VFEtCTBZQ7II-h2g9Kg&usqp=CAU"></code> <br>  <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3BJCUaAko_zjufh6UIDOEdBQZ8qgg0fIWwA&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwA5YjmHbQtzMqCC5iEiugMjzUfkysMLOxTw&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyGiYfN3iDJoXW0yvYSNWYFKofvrmf0oITCA&usqp=CAU"></code> <br>  <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST7bzbXFWfirHTw1hVykMb5d3zpI8W3HPt9A&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNt4zOsox3EsJCiG9ajmqqku-HgXUryWvDXA&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3uy9pW5seuaHgNcT9iwQF5sVQDslBGa7Glg&usqp=CAU"></code> <br>  <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwMFcJQEyPckfMxkdHYLhPA5oEWnZNCkH44Q&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_tVqCOJhNQG_7U9X8j3OXNvVrU2f8Jp-FUQ&usqp=CAU"></code> <code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGrMytxahRQyU9HhjSmrIKXMh_cJc7CshROw&usqp=CAU"></code> <br> </td> <td> 	<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <br>  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code> <br>  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/reactnative.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> <br> </td> <td>  <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code> <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code> <br> </td> </tr>  </table>
+![Aditya Vikram Singh Banner](https://avatars.githubusercontent.com/u/48440021?s=400&u=00236312a27a25a726482877c6421e414f72a27b&v=4)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alireza</h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm was a law graduate turned developer.\
+🌱 &nbsp;I'm Interested in building mobile and web apps and heavily interested in any form of iot.\
+✍️ &nbsp;In my free time, I pursue Martial Arts and Hiking and video games.\
+💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
+✉️ &nbsp;You can shoot me an email at alirezatk73@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1bWGSD38ydxBfoPHgSlQbkZaKehHf455E_ftcmE1jk30/edit?usp=sharing) for more details about me.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass)&nbsp;
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=Nestjs)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![CircleCI](https://img.shields.io/badge/-CircleCI-05122A?style=flat&logo=CircleCI)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/art1373">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=art1373&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=art1373&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/alireza-tavakol73"><img src="https://img.shields.io/badge/-AlirezaTavakol-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alirezatk73@gmail.com"><img src="https://img.shields.io/badge/-art1373@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
