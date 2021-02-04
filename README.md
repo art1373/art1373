@@ -1,6 +1,3 @@
-![Aditya Vikram Singh Banner](https://avatars.githubusercontent.com/u/48440021?s=400&u=00236312a27a25a726482877c6421e414f72a27b&v=4)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Alireza</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
