@@ -7,7 +7,7 @@
 ✍️ &nbsp;In my free time, I pursue Martial Arts and Hiking and video games.\
 💬 &nbsp;Feel free to reach out to me for Any oportunity full time or part time.\
 ✉️ &nbsp;You can shoot me an email at alirezatk73@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1bWGSD38ydxBfoPHgSlQbkZaKehHf455E_ftcmE1jk30/edit?usp=sharing) for more details about me.
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/art1373/) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
